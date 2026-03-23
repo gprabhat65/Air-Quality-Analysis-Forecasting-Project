@@ -51,7 +51,7 @@ AQI_Project/
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/aqi-project.git
+git clone https://github.com/gprabhat65/aqi-project.git
 cd aqi-project
 ```
 
